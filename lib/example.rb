@@ -17,3 +17,7 @@ say_hello_world_ten_times
 # ...The rest of the program
 
 say_hello_world_ten_times
+
+def greeting
+  puts "Hello World"
+end
